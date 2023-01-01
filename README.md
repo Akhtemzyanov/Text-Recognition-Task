@@ -1,4 +1,4 @@
-### Text-Recognition-Task
+### Text-Recognition-Task </br>
 
-# Модель Pytorch для распознавания текста на изображении
-# Для отбора на Deep Learning Advanced 2023
+Модель Pytorch для распознавания текста на изображении </br>
+Для отбора на курс Deep Learning Advanced 2023 </br>
